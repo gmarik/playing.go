@@ -1,6 +1,8 @@
 ## My Go lanuage experiments
 
-## Getting started with go on OSX
+Mostly notes for myself
+
+## Getting started with Go on OSX
 
     $ brew update
 
@@ -28,7 +30,7 @@
 
 ## Hello world with Go
 
-see [hello world example](http://github.com/gmarik/playing.go/helloworld/helloworld.go)
+see [hello world example](https://github.com/gmarik/playing.go/blob/master/helloworld/helloworld.go)
 
 ## Writing Test for Go
 
