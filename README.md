@@ -35,3 +35,8 @@ see [hello world example](https://github.com/gmarik/playing.go/blob/master/hello
 ## Writing Test for Go
 
 - read [How to Write Go Code](http://golang.org/doc/code.html#pkg_example)
+
+## More Go examples
+
+- [gmallard/go-samp](https://github.com/gmallard/go-samp)
+- [tokuhirom/go-examples](https://github.com/tokuhirom/go-examples)
